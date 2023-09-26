@@ -11,6 +11,12 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
+    },
+    {
+      "id": "178b7eef-8b4d-487a-ac33-a031091cdb10",
+      "name": "EvgOcheredko",
+      "description": "xcz",
+      "element": "earth"
     }
   ],
   "filters": [
